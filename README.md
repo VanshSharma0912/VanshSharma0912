@@ -1,107 +1,93 @@
+ <div align="center">
+
 # VANSH SHARMA
 
 ### Computer Science Student · Aspiring Software Developer
 
-\<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Reality;Learning+Something+New+Every+Day;Building+Projects+That+Matter;Exploring+Software+Development" alt="Typing SVG" />
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+projects%2C+learning+by+doing.;Exploring+web+development.;Turning+ideas+into+working+applications](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=20\&duration=3000\&pause=900\&color=58A6FF\&center=true\&vCenter=true\&width=600\&lines=Building+projects%2C+learning+by+doing.;Exploring+web+development.;Turning+ideas+into+working+applications)." alt="Animated introduction" />
+<br/>
 
+[![GitHub](https://img.shields.io/badge/GitHub-VanshSharma0912-181717?style=for-the-badge&logo=github)](https://github.com/VanshSharma0912)
+[![Profile Views](https://komarev.com/ghpvc/?username=VanshSharma0912&style=for-the-badge&color=blue)](https://github.com/VanshSharma0912)
 
-\
-
-
-\</div>
-
----
-
-## `$ whoami`
-
-I'm **Vansh Sharma**, a Computer Science student at **Lovely Professional University (LPU)**.
-
-I'm interested in software development, web technologies, and creating practical applications. I enjoy learning through hands-on projects, experimenting with tools, and improving my development skills one step at a time.
-
-- 🎓 Studying Computer Science at LPU
-- 💻 Exploring web development and software engineering
-- 🚀 Building and documenting personal projects
-- 🌱 Continuously learning and improving
-- 🎯 Focused on writing better code and building useful products
+</div>
 
 ---
 
-## `$ tech-stack`
+### `$ whoami`
 
-### Languages & Development
+Hi, I'm **Vansh Sharma**, a Computer Science student passionate about technology, software development, and building useful digital experiences.
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=js,html,css,react,vite,firebase&theme=dark](https://skillicons.dev/icons?i=js,html,css,react,vite,firebase\&theme=dark)" alt="JavaScript, HTML, CSS, React, Vite and Firebase" />
-\</p>
+I enjoy exploring new technologies, solving problems, experimenting with code, and turning creative ideas into practical projects.
 
-### Tools
-
-\<p>
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode&theme=dark](https://skillicons.dev/icons?i=git,github,vscode\&theme=dark)" alt="Git, GitHub and VS Code" />
-\</p>
-
-*These icons represent technologies used in or relevant to my current project work. My skills will expand as I gain more experience.*
+- 🎓 Computer Science Student
+- 💻 Interested in Software Development
+- 🌐 Exploring Web Development
+- 🚀 Building projects and learning by doing
+- 📚 Constantly improving my technical skills
+- 🎯 Focused on becoming a better developer every day
 
 ---
 
-## `$ featured-projects`
+### `$ tech-stack`
 
-### 🎓 CampusBuddy
+**Languages & Programming**
 
-A campus-focused web application built with modern web technologies.
+<!-- Add or remove technologies based on your actual skills -->
 
-|            |                                                                            |
-| ---------- | -------------------------------------------------------------------------- |
-| **Stack**  | JavaScript · React · Vite · Firebase                                       |
-| **Status** | Personal/student project                                                   |
-| **Demo**   | [Launch CampusBuddy ↗](https://campusbuddykrish.netlify.app/)              |
-| **Source** | [Explore the repository ↗](https://github.com/VanshSharma0912/CampusBuddy) |
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**What I'm developing through this project:**
+**Web Development**
 
-- Practical frontend development experience
-- Integration with backend services
-- Application configuration and deployment
-- Project documentation and maintenance
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+**Tools & Platforms**
 
-## `$ github-analytics`
-
-\<div align="center">
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api?username=VanshSharma0912&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=VanshSharma0912\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=github)" alt="GitHub statistics" />
-
-\<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharma0912&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharma0912\&layout=compact\&theme=github_dark\&hide_border=true)" alt="Most used public repository languages" />
-
-\<img src="[https://streak-stats.demolab.com?user=VanshSharma0912&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=VanshSharma0912\&theme=github-dark-blue\&hide_border=true)" alt="GitHub contribution streak" />
-
-\</div>
-
-\<sub>Statistics depend on public GitHub activity and third-party services. Language cards reflect repository composition, not necessarily proficiency. Some cards may occasionally be unavailable.\</sub>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## `$ current-goals`
+### `$ github-stats`
 
-- [ ] Strengthen programming fundamentals
-- [ ] Build more substantial software projects
-- [ ] Improve problem-solving skills
-- [ ] Learn software development best practices
-- [ ] Document projects clearly and consistently
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VanshSharma0912&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshSharma0912&theme=github-dark-blue&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSharma0912&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 ---
 
-## `$ connect`
+### `$ projects`
 
-\<div align="center">
+🚀 **Things I'm Building**
 
+I believe the best way to learn programming is by building real-world projects.
 
+Explore my repositories:
 
-**Computer Science Student · Lovely Professional University**
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-238636?style=for-the-badge&logo=github)](https://github.com/VanshSharma0912?tab=repositories)
 
-*Learning continuously. Building consistently. Improving with every commit.*
+---
 
-\</div>
+### `$ connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/VanshSharma0912)
+
+**Always learning. Always building. Always improving.**
+
+*Thanks for visiting my profile!*
+
+</div>
